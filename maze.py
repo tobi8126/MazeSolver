@@ -1,7 +1,5 @@
 import random
 import time
-from typing import List
-
 from cell import Cell
 from graphics import Window, Point
 

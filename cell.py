@@ -1,3 +1,4 @@
+from __future__ import annotations
 from graphics import Line, Point, Window
 
 class Cell:
